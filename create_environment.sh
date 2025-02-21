@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#function that inputs name 
 read -p "INPUT YOUR NAME: " UserName
 dirName="submission_reminder_${UserName}"
 
